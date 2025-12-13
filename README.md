@@ -1,68 +1,145 @@
-# 👋 Hi, I’m Isuru Lakmina (`@lakmina456`)
+<!-- ===================== HERO ===================== -->
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#7C3AED">Isuru Lakmina</span>
+</h1>
 
-### 🚀 About Me
-I'm a passionate developer with experience building full-stack web apps, computer vision projects, and responsive front-end designs.  
-I love learning new technologies and building real-world projects that solve problems and demonstrate clean code.  
+<h3 align="center">
+  Full-Stack Developer • Tech Explorer • Problem Solver
+</h3>
 
-🌱 Currently exploring **advanced web development**, **machine learning**, and **open source contributions**.
+<p align="center">
+  <a href="https://github.com/lakmina456">
+    <img src="https://komarev.com/ghpvc/?username=lakmina456&label=Profile%20Views&color=7c3aed&style=flat" />
+  </a>
+</p>
 
-📈 Checkout my GitHub Stats below and connect with me!
+<p align="center">
+  I build modern web applications, experiment with computer vision,  
+  and love turning ideas into clean, scalable code.
+</p>
 
 ---
 
-## 🔧 Technologies & Tools
+<!-- ===================== SOCIAL ===================== -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/isurulakmina456">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://isurulakmina.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="mailto:isurulakmina@email.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for_the_badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for_the_badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for_the_badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for_the_badge&logo=typescript&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for_the_badge&logo=node.js&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for_the_badge&logo=react&logoColor=black)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for_the_badge&logo=next.js&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for_the_badge&logo=java&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=for_the_badge&logo=csharp&logoColor=white)
+---
+
+## ✨ About Me
+
+- 🚀 Passionate **Full-Stack Developer**
+- 🧠 Interested in **Web Development, Computer Vision & AI**
+- 🌱 Currently learning **Advanced React, Next.js & Backend Architecture**
+- 🤝 Open to **collaboration & open-source projects**
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,node,java,cs,tailwind,git,github" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🔗 ShareNex</h3>
+<p align="center">
+Secure & privacy-focused text/file sharing web app.
+</p>
+<p align="center">
+<b>Next.js • Supabase • Modern UI</b>
+</p>
+<p align="center">
+<a href="https://github.com/lakmina456/ShareNex-Text_File_Sharing_WebApplication">
+View Project →
+</a>
+</p>
+</td>
+
+<td width="50%">
+<h3 align="center">🚦 Traffic Sign Recognition</h3>
+<p align="center">
+Real-time traffic sign detection using computer vision.
+</p>
+<p align="center">
+<b>Java • OpenCV • ML</b>
+</p>
+<p align="center">
+<a href="https://github.com/lakmina456/RealTime_Traffic_Sign_Recognition">
+View Project →
+</a>
+</p>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🛍 FashionHub</h3>
+<p align="center">
+Modern e-commerce website with responsive design.
+</p>
+<p align="center">
+<b>HTML • Tailwind • Node.js</b>
+</p>
+<p align="center">
+<a href="https://github.com/lakmina456/FashionHub_e_commerce_website">
+View Project →
+</a>
+</p>
+</td>
+
+<td width="50%">
+<h3 align="center">🌐 Portfolio Website</h3>
+<p align="center">
+Personal portfolio showcasing my work & skills.
+</p>
+<p align="center">
+<b>Modern UI • Clean Design</b>
+</p>
+<p align="center">
+<a href="https://github.com/lakmina456/Modern_Portfolio_Website">
+View Project →
+</a>
+</p>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Lakmina’s GitHub stats](https://github-readme-stats.vercel.app/api?username=lakmina456&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lakmina456&show_icons=true&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakmina456&theme=transparent&hide_border=true" />
+</p>
 
 ---
 
-## 📌 Pinned Projects
+## 🧠 Currently Learning
 
-### 🔗 **ShareNex – Text File Sharing App**
-🔹 Secure, privacy-focused text/file sharing built with Next.js & Supabase.  
-👉 https://github.com/lakmina456/ShareNex-Text_File_Sharing_WebApplication :contentReference[oaicite:2]{index=2}
-
-### 🚦 **RealTime Traffic Sign Recognition**
-🔹 Traffic sign recognition using computer vision (Java).  
-👉 https://github.com/lakmina456/RealTime_Traffic_Sign_Recognition :contentReference[oaicite:3]{index=3}
-
-### 🛍 **FashionHub e-Commerce Website**
-🔹 Modern responsive e-commerce platform — HTML, Tailwind, Node.js.  
-👉 https://github.com/lakmina456/FashionHub_e_commerce_website :contentReference[oaicite:4]{index=4}
-
-### 🌐 **Modern Portfolio Website**
-🔹 Personal portfolio website showcasing me & my work.  
-👉 https://github.com/lakmina456/Modern_Portfolio_Website :contentReference[oaicite:5]{index=5}
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for_the_badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isurulakmina456)  
-[![Website](https://img.shields.io/badge/Portfolio-000?style=for_the_badge&logo=googlechrome&logoColor=white)](https://isurulakmina.vercel.app) :contentReference[oaicite:6]{index=6}
-
----
-
-## 💬 Fun Facts
-
-- 👨‍💻 I love building **both frontend and backend** systems.  
-- 🏆 I enjoy **learning new languages and frameworks**.  
-- 📚 Always open to **collaboration & open source**!
-
----
-
-> “Strive not to be a success, but rather to be of value.” — *Albert Einstein*
+```text
+⚡ Advanced React Patterns
+⚡ Next.js App Router
+⚡ Backend Architecture
+⚡ Machine Learning Basics
