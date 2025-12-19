@@ -135,11 +135,3 @@ View Project →
 </p>
 
 ---
-
-## 🧠 Currently Learning
-
-```text
-⚡ Advanced React Patterns
-⚡ Next.js App Router
-⚡ Backend Architecture
-⚡ Machine Learning Basics
