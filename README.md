@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  Full-Stack Developer • Tech Explorer • Problem Solver
+  Software Engineer • Tech Explorer • Problem Solver
 </h3>
 
 <p align="center">
@@ -37,7 +37,7 @@
 
 ## ✨ About Me
 
-- 🚀 Passionate **Full-Stack Developer**
+- 🚀 Passionate **Software Engineer**
 - 🧠 Interested in **Web Development, Computer Vision & AI**
 - 🌱 Currently learning **Advanced React, Next.js & Backend Architecture**
 - 🤝 Open to **collaboration & open-source projects**
