@@ -126,12 +126,9 @@ View Project →
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakmina456&show_icons=true&theme=transparent&hide_border=true" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lakmina456" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lakmina456&theme=transparent"/>
 </p>
 
 ---
