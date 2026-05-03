@@ -72,7 +72,7 @@ View Project →
 </td>
 
 <td width="50%">
-<h3 align="center">🚦 Traffic Sign Recognition</h3>
+<h3 align="center">🚦 Traffic Sign Recognition System - 🏅 2nd Place Award </h3>
 <p align="center">
 Real-time traffic sign detection using computer vision.
 </p>
