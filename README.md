@@ -57,7 +57,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🔗 ShareNex</h3>
+<h3 align="center">🔗 ShareNex - File Sharing System </h3>
 <p align="center">
 Secure & privacy-focused text/file sharing web app.
 </p>
